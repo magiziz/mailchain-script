@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mailchain/encoding": "^0.18.2",
-    "@mailchain/keyring": "^0.18.2",
-    "@mailchain/sdk": "^0.18.2",
+    "@mailchain/sdk": "^0.18.4",
     "dotenv": "^16.0.3",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.3"
